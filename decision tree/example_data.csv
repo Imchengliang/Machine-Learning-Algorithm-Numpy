@@ -1,0 +1,15 @@
+﻿humility,outlook,play,temp,windy
+high,sunny,no,hot,FALSE
+high,sunny,no,hot,TRUE
+high,overcast,yes,hot,FALSE
+high,rainy,yes,mild,FALSE
+normal,rainy,yes,cool,FALSE
+normal,rainy,no,cool,TRUE
+normal,overcast,yes,cool,TRUE
+high,sunny,no,mild,FALSE
+normal,sunny,yes,cool,FALSE
+normal,rainy,yes,mild,FALSE
+normal,sunny,yes,mild,TRUE
+high,overcast,yes,mild,TRUE
+normal,overcast,yes,hot,FALSE
+high,rainy,no,mild,TRUE
